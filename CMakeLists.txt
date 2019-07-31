@@ -4,3 +4,5 @@ project(TDD_practice)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(TDD_practice main.cpp)
+
+add_subdirectory(Google_tests)
